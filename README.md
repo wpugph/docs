@@ -3,6 +3,15 @@ Readme First 1.0.1
 
 This repository is for the publicly available documents of WordPress User Groups Philippines (WPUGPH). Published and maintained by the organizing team.
 
+Usage of this Repository
+------------------------
+
+- The purpose of this repository is to provide an inventory of WPUGPH documents in one location.
+- For official documents, sources must be cited and all revisions from source must be reflected here. 
+- Minor formatting changes to documents are allowed solely for the reason of improving presentation and readability.
+- Any change to documents will be reviewed by the organizing team via pull requests. Only [atomic commits](https://en.wikipedia.org/wiki/Atomic_commit) will be approved.
+- Direct link to documents in this repository can be provided to anyone who requests it.
+- Additional advantage of using GitHub allows us to use version control to track history.
 
 Please use Semantic Versioning 2.0.0
 ------------------------------------
